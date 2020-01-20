@@ -3,3 +3,4 @@ IAN RESOLUSI
 - belajar OOP dan freamwork
 - belajar GIT
 - belajar javascrip
+- mencari referensi dari ebook, training dll
